@@ -1,3 +1,3 @@
-#Gochi for Achievements
+# Gochi for Achievements
 
-## 
+## How to 
